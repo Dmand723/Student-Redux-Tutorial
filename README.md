@@ -39,3 +39,4 @@ To run the application, follow these steps:
    npm start
    ```
 5. Open your browser and go to `http://localhost:3000` to see the application in action.
+6. Open your browser and go to [http://localhost:3000](http://localhost:3000) to see the application in action.
