@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This application is a simple tutorial to demonstrate the usage of Redux with React. It covers the basic concepts of Redux, including actions, reducers, and the store, and shows how to integrate them into a React application.
+This application is a simple tutorial to demonstrate the usage of Redux with React. It covers the basic concepts of Redux, including actions, reducers, and the store, and shows how to integrate them into a React application. Created by -<a href="https://www.youtube.com/@cosdensolutions">Cosden Solutions</a>
 
 ## Features
 
